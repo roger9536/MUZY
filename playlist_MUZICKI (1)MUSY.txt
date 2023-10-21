@@ -1,0 +1,74 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,MUZIKA
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/415.ts
+#EXTINF:-1,Balkan Upper TV
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/416.ts
+#EXTINF:-1,Balkanika Music TV
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/417.ts
+#EXTINF:-1,BN Music
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/418.ts
+#EXTINF:-1,Bravo Music
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/419.ts
+#EXTINF:-1,CMC
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/420.ts
+#EXTINF:-1,DM SAT
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/421.ts
+#EXTINF:-1,Duga TV
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/422.ts
+#EXTINF:-1,Grand 2
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/423.ts
+#EXTINF:-1,Grand Narodna TV
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/424.ts
+#EXTINF:-1,Hayat Folk
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/425.ts
+#EXTINF:-1,Hayat Music
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/426.ts
+#EXTINF:-1,Hip Hop TV
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/427.ts
+#EXTINF:-1,IDJ TV
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/428.ts
+#EXTINF:-1,Imperia TV
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/429.ts
+#EXTINF:-1,Jugoton
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/431.ts
+#EXTINF:-1,MTV 80's
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/432.ts
+#EXTINF:-1,MTV Dance
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/433.ts
+#EXTINF:-1,MTV Hits
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/434.ts
+#EXTINF:-1,MTV Music
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/435.ts
+#EXTINF:-1,Pink Folk 1
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/436.ts
+#EXTINF:-1,Pink Folk 2
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/437.ts
+#EXTINF:-1,Pink Music 1
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/438.ts
+#EXTINF:-1,Pink Music 2
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/439.ts
+#EXTINF:-1,Pop Star
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/440.ts
+#EXTINF:-1,Roma TV
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/441.ts
+#EXTINF:-1,Sevdah TV
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/442.ts
+#EXTINF:-1,Top Sound
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/443.ts
+#EXTINF:-1,Toxic Folk
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/444.ts
+#EXTINF:-1,Toxic TV
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/445.ts
+#EXTINF:-1,Valentino TV
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/446.ts
+#EXTINF:-1,VH1
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/447.ts
+#EXTINF:-1,WWM
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/448.ts
+#EXTINF:-1,Yu Planet
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/449.ts
+#EXTINF:-1,Valentino Etno
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/5767.ts
+#EXTINF:-1,Valentino Music
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/5768.ts
